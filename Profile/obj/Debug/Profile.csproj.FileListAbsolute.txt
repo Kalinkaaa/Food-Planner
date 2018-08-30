@@ -1,0 +1,10 @@
+C:\Projects\FoodPlanner\Profile\Profile\bin\Debug\Profile.exe.config
+C:\Projects\FoodPlanner\Profile\Profile\bin\Debug\Profile.exe
+C:\Projects\FoodPlanner\Profile\Profile\bin\Debug\Profile.pdb
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.MainFormProfile.resources
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.Properties.Resources.resources
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.csproj.GenerateResource.cache
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.exe
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.pdb
+C:\Projects\FoodPlanner\Profile\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache

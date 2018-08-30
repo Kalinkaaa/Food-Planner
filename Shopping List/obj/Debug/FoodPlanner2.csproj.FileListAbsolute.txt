@@ -1,0 +1,11 @@
+C:\Projects\FoodPlanner2\FoodPlanner2\bin\Debug\FoodPlanner2.exe.config
+C:\Projects\FoodPlanner2\FoodPlanner2\bin\Debug\FoodPlanner2.exe
+C:\Projects\FoodPlanner2\FoodPlanner2\bin\Debug\FoodPlanner2.pdb
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.csprojAssemblyReference.cache
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.Form1.resources
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner.MainForm.resources
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.Properties.Resources.resources
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.csproj.GenerateResource.cache
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.csproj.CoreCompileInputs.cache
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.exe
+C:\Projects\FoodPlanner2\FoodPlanner2\obj\Debug\FoodPlanner2.pdb

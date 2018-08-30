@@ -1,0 +1,10 @@
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\bin\Debug\WeekPlanner.exe.config
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\bin\Debug\WeekPlanner.exe
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\bin\Debug\WeekPlanner.pdb
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.csprojResolveAssemblyReference.cache
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.Form1.resources
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.Properties.Resources.resources
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.csproj.GenerateResource.cache
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.csproj.CoreCompileInputs.cache
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.exe
+C:\Projects\FoodPlanner\WeekPlanner\WeekPlanner\obj\Debug\WeekPlanner.pdb
